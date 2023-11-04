@@ -3,7 +3,7 @@
 
 #### _Repositorio del proyecto Integrador - UTN San Rafael - Programación._
 
-![funk the code]([https://i.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.webp](https://i.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.webp))
+![funk the code](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJzMWNhYnphcGR5bHI1d3Vrc3JreXNvMml0bDc0M3RiejY2MzFrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)
 
 > ## **Integrantes**:
 
