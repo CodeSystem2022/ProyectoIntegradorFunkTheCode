@@ -3,7 +3,7 @@
 
 #### _Repositorio del proyecto Integrador - UTN San Rafael - Programación._
 
-![funk the code](https://i.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.webp)
+![funk the code]([https://i.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.webp](https://i.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.webp))
 
 > ## **Integrantes**:
 
@@ -17,4 +17,4 @@
 - #### 8 - Matias Diaz de Otazu
 
 
-> ![py](https://media.tenor.com/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif)
+
