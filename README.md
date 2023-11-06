@@ -2,7 +2,7 @@
 #### Se sugiere abrir dos terminales, una en la carpeta "FRONTEND" y la otra en "BACKEND". En ambas terminales, se procede a ejecutar el comando ` npm run dev` con el propósito de inicializar el proyecto. Posteriormente, una vez que la parte frontal del proyecto esté disponible, se proporcionará el enlace correspondiente para su visualización en el navegador.
 
 
-[https://www.youtube.com/watch?v=zO5a3jPjIjI&ab_channel=carlafuschino:][Link video youtube PI] 
+[https://www.youtube.com/watch?v=zO5a3jPjIjI&ab_channel=carlafuschino:]Link video youtube PI
  
 
 _Grupo:_ **Funk The Code** ⚡
