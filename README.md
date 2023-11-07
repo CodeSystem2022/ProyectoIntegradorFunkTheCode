@@ -5,6 +5,7 @@
 Es una tienda en línea especializada en la venta de productos electrónicos de alta gama. Estamos comprometidos con la calidad y la satisfacción del cliente, y nos enfocamos en ofrecer una amplia gama de productos de Apple, con un enfoque principal en la venta de iPhones a través de una página web (e-commerce).
 
 ##  Principales Atributos 
+
 ✅ Usuario-friendly: Una interfaz que resulta fácil de usar para tod@s.
 ✅ Conexión con un sistema de pago seguro: Integración con un sistema de pago que garantiza la seguridad( Mercado pago).
 ✅ Garantía de privacidad y protección de datos: Políticas que salvaguardan la información de los usuarios.
