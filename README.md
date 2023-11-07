@@ -6,15 +6,15 @@ Es una tienda en línea especializada en la venta de productos electrónicos de 
 
 ##  Principales Atributos 
 
-✅ Usuario-friendly: Una interfaz que resulta fácil de usar para tod@s.
+✅ User-friendly: Una interfaz que resulta fácil de usar para tod@s.
 
-✅ Conexión con un sistema de pago seguro: Integración con un sistema de pago que garantiza la seguridad( Mercado pago).
+✅ Conexión con un sistema de pago seguro: Integración con un sistema de pago que garantiza la seguridad (Mercado Pago).
 
 ✅ Garantía de privacidad y protección de datos: Políticas que salvaguardan la información de los usuarios.
 
 ✅ Establecimiento de un sistema de comercio electrónico: Creación de una plataforma para ventas en línea.
 
-✅ Diseño Responsive.Adaptable y compatible con diversos dispositivos
+✅ Diseño Responsive.Adaptable y compatible con diversos dispositivos.
 
 
 
