@@ -1,7 +1,7 @@
-## _Grupo:_ **Funk The Code**⚡
+# _Grupo:_ **Funk The Code**⚡
 
 
-### ¿Qué es ItuiPhone?
+## ¿Qué es ItuiPhone?
 Es una tienda en línea especializada en la venta de productos electrónicos de alta gama. Estamos comprometidos con la calidad y la satisfacción del cliente, y nos enfocamos en ofrecer una amplia gama de productos de Apple, con un enfoque principal en la venta de iPhones a través de una página web (e-commerce).
 
 ##  Principales Atributos 
