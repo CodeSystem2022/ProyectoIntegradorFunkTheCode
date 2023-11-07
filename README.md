@@ -19,7 +19,8 @@ Es una tienda en línea especializada en la venta de productos electrónicos de 
 ## Link al video en YouTube P.I.:
 [https://youtu.be/zO5a3jPjIjI]
 
-
+## Otros links : (Link brief, proyecto integrador 30 min, video 7 min, y repositorios)
+[https://docs.google.com/document/d/1TYTArGJjVYwTUSl340876qryNB5D3k9N/edit]
  
 
 #### _Repositorio del proyecto Integrador - UTN San Rafael - Programación._
