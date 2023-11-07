@@ -1,12 +1,26 @@
 ## _Grupo:_ **Funk The Code**⚡
-### Para abrir correctamente el proyecto:
+
+
+### ¿Qué es ItuiPhone?
+Es una tienda en línea especializada en la venta de productos electrónicos de alta gama. Estamos comprometidos con la calidad y la satisfacción del cliente, y nos enfocamos en ofrecer una amplia gama de productos de Apple, con un enfoque principal en la venta de iPhones a través de una página web (e-commerce).
+
+##  Principales Atributos 
+✅ Usuario-friendly: Una interfaz que resulta fácil de usar para tod@s.
+✅ Conexión con un sistema de pago seguro: Integración con un sistema de pago que garantiza la seguridad( Mercado pago).
+✅ Garantía de privacidad y protección de datos: Políticas que salvaguardan la información de los usuarios.
+✅ Establecimiento de un sistema de comercio electrónico: Creación de una plataforma para ventas en línea.
+✅ Diseño Responsive.Adaptable y compatible con diversos dispositivos
+
+
+
+### Instrucciones para iniciar el proyecto:
 #### Se sugiere abrir dos terminales, una en la carpeta "FRONTEND" y la otra en "BACKEND". En ambas terminales, se procede a ejecutar el comando `npm run dev` con el propósito de inicializar el proyecto. Posteriormente, una vez que la parte frontal del proyecto esté disponible, se proporcionará el enlace correspondiente para su visualización en el navegador.
 
 ## Link al video en YouTube P.I.:
 [https://youtu.be/zO5a3jPjIjI]
+
+
  
-
-
 
 #### _Repositorio del proyecto Integrador - UTN San Rafael - Programación._
 
